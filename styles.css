@@ -20,6 +20,15 @@ header {
 }
 .one {
   font-size: 60px;
+  margin: 0px;
+  padding-top: 10px;
+}
+.preferred {
+  font-size: 18px;
+  margin-bottom: px;
+}
+.select {
+  text-align: center;
 }
 .submit {
   background-color: #d9b451;
@@ -29,8 +38,10 @@ header {
   margin-left: 100px;
 }
 input {
-  padding: 5px;
+  padding: 7px;
+  margin: 3px;
 }
+
 .submit:hover {
   background-color: black;
   color: #d9b451;
